@@ -1,10 +1,11 @@
 # AppCalculoSalario5
 
-Aula1Calculadora
-Sobre o projeto
+
+Sobre o projeto:
+
 Aplicativo Calculo Salário.
 
-Layout mobile:
+
 
 
 
